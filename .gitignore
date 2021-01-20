@@ -1,0 +1,5 @@
+# Project exclude paths
+/Mixed/target/
+/Sugar/target/
+/Textprocessing/target/
+/Threadnconcurrent/target/

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Datasource" />
+        <module name="Generic" />
+        <module name="Classloader" />
+        <module name="Memory" />
+        <module name="Nested" />
+        <module name="Textprocessing" />
+        <module name="Reflection" />
+        <module name="Annotation" />
+        <module name="Runtime" />
+        <module name="Delegate" />
+        <module name="Web" />
+        <module name="Mixed" />
+        <module name="Threadnconcurrent" />
+        <module name="Stream" />
+        <module name="Bytecode" />
+        <module name="Module" />
+        <module name="Lambda" />
+        <module name="Sugar" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Refectio" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
